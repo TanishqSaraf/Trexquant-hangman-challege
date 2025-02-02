@@ -1,1 +1,0 @@
-# Trexquant-hangman-challege
